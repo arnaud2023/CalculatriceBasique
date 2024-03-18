@@ -1,0 +1,6 @@
+G:\GINFO\ENSET DOUALA\NIVEAU 4\MON S2\programmation asp.net\essentiel asp.net mvc5\CalculatriceBasique\CalculatriceBasique\bin\Debug\CalculatriceBasique.exe.config
+G:\GINFO\ENSET DOUALA\NIVEAU 4\MON S2\programmation asp.net\essentiel asp.net mvc5\CalculatriceBasique\CalculatriceBasique\bin\Debug\CalculatriceBasique.exe
+G:\GINFO\ENSET DOUALA\NIVEAU 4\MON S2\programmation asp.net\essentiel asp.net mvc5\CalculatriceBasique\CalculatriceBasique\bin\Debug\CalculatriceBasique.pdb
+G:\GINFO\ENSET DOUALA\NIVEAU 4\MON S2\programmation asp.net\essentiel asp.net mvc5\CalculatriceBasique\CalculatriceBasique\obj\Debug\CalculatriceBasique.csprojResolveAssemblyReference.cache
+G:\GINFO\ENSET DOUALA\NIVEAU 4\MON S2\programmation asp.net\essentiel asp.net mvc5\CalculatriceBasique\CalculatriceBasique\obj\Debug\CalculatriceBasique.exe
+G:\GINFO\ENSET DOUALA\NIVEAU 4\MON S2\programmation asp.net\essentiel asp.net mvc5\CalculatriceBasique\CalculatriceBasique\obj\Debug\CalculatriceBasique.pdb
